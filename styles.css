@@ -1,0 +1,79 @@
+<style>
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* background-color: rgb(216, 214, 106); */
+}
+
+.headerr {
+    text-align: center;
+    padding: 3%;
+}
+
+.container1 {
+    background-image: url("a.jfif");
+    background-size: 410px;
+    background-repeat: no-repeat;
+}
+
+.container1 .headerrr {
+    padding: 10px;
+    text-align: center;
+    margin-top: 70px;
+    color: aliceblue;
+}
+
+.container1 .form {
+    text-align: center;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+.backg {
+    background-color: rgb(216, 214, 106);
+    ;
+}
+
+.main {
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: horizontal;
+    height: 280px;
+    border: 3px solid rgb(105, 105, 105);
+    width: 455px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 4px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+.container2 iframe {
+    /* height: 270px;
+    display: inline-block;
+    position: fixed; */
+    height: 270px;
+    width: 263px;
+    min-width: 100px;
+}
+
+.container1 {
+
+    width: 250px;
+    height: 274px;
+    display: inline-block;
+    margin-top: -0px;
+
+    position: relative;
+    left: 1px;
+    background-color: rgb(235, 235, 235);
+
+}
+
+h1 {
+    margin: 20px;
+    font-size: 30px;
+    color: rgb(48, 43, 43);
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+</style>
